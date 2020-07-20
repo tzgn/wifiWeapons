@@ -9,5 +9,5 @@
 <br>
            ./install.sh
 <br>
-           anywhere on linux terminalyou can write command: wifitoolBYp4d4w4n
+           anywhere on linux terminalyou can write command: <I><b>wifitoolBYp4d4w4n</b></I>
 <br>
