@@ -1,7 +1,7 @@
 # wifiWeapons
 
 <br>
-           <b>setup</b>
+           <b>setup:</b>
 <br>
            <CENTER>pip3 install os</CENTER>
 <br>
