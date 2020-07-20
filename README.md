@@ -3,9 +3,11 @@
 <br>
            <b>setup:</b>
 <br>
-           <CENTER>pip3 install os</CENTER>
+           pip3 install os
 <br>
-           <center>chmod +x install.sh</center>
+           chmod +x install.sh
 <br>
-           <center>./install.sh</center>
+           ./install.sh
+<br>
+           anywhere on linux terminalyou can write command: wifitoolBYp4d4w4n
 <br>
