@@ -1,8 +1,8 @@
-mkdir /root/.p4d4w4nsystems/
-cp ./p4d4w4n_deauther.py /root/.p4d4w4nsystems/
-cp ./p4d4w4n_handshaker.py /root/.p4d4w4nsystems/
-cp ./p4d4w4n_wificracker.py /root/.p4d4w4nsystems/
-cp ./p4d4w4n_wordlister.py /root/.p4d4w4nsystems/
-cp ./p4d4w4n_router_def_wordlister.py /root/.p4d4w4nsystems/
-cp ./wifitoolsBYp4d4w4n.sh /bin/wifitoolsBYp4d4w4n
-chmod +x /bin/wifitoolsBYp4d4w4n
+mkdir /root/.tzgnsystems/
+cp ./tzgn_deauther.py /root/.tzgnsystems/
+cp ./tzgn_handshaker.py /root/.tzgnsystems/
+cp ./tzgn_wificracker.py /root/.tzgnsystems/
+cp ./tzgn_wordlister.py /root/.tzgnsystems/
+cp ./tzgn_router_def_wordlister.py /root/.tzgnsystems/
+cp ./wifitoolsBYtzgn.sh /bin/wifitoolsBYtzgn
+chmod +x /bin/wifitoolsBYtzgn
