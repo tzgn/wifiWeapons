@@ -134,6 +134,12 @@ def format4():
     pass_array.append("12345alti")
     pass_array.append("12345678987654321")
     pass_array.append("123456789987654321")
+    pass_array.append("9876543210")
+    pass_array.append("87654321")
+    pass_array.append("987654321")
+    pass_array.append("876543210")
+    pass_array.append("76543210")
+
 format1()
 format2()
 format3()
